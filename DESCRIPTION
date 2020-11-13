@@ -1,0 +1,12 @@
+Package: cryptopia
+Type: Package
+Title: Cryptopia
+Version: 0.1.0
+Author: Dennis Sobolewski
+Maintainer: Dennis Sobolewski <dennis.sobolewski@gmail.com>
+Description: A set of tools for organizing and anlyzing cryptocurrency related data.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: digest,RCurl,httr,tidyr,purrr,dplyr,magrittr, tibble
+RoxygenNote: 7.1.1
